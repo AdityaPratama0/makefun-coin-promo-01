@@ -1,0 +1,1 @@
+withheld: this harness does not write its system prompt into its session log, and the operator keeps no copy of it as a file
